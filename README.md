@@ -56,5 +56,11 @@ Atualmente estou aprendendo **Python**, me aprofundando em **Git & GitHub**, e c
 
 ---
 
+### 📊 Minhas estatísticas no GitHub
+
+![Gael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaelmelog&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaelmelog&layout=compact&theme=tokyonight)
+
+
 ⭐ *Se curtiu algum projeto, dá uma estrela — cada ⭐ é uma dose de motivação pra continuar criando!*  
 
