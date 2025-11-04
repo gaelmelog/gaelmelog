@@ -29,7 +29,7 @@ Atualmente estou aprendendo **Python**, me aprofundando em **Git & GitHub**, e c
 
 - 🔧 [Conversor de Unidades](#) – script simples em Python pra converter temperatura, distância e tempo.  
 - 📊 [Gerador de Planilhas Automático](#) – automatiza criação de relatórios em Excel usando `pandas`.  
-- 🤖 [Bot de Telegram](#) – responde comandos e envia mensagens automáticas.  
+- 🪐 [Animação de Lente Gravitacional](#) – projeto unindo física e programação, simulando através de uma animação a lente gravitacional.
 - 🪐 [Simulador de Órbita](#) – projeto em desenvolvimento unindo física orbital e programação.
 
 *(links serão atualizados à medida que os projetos forem prontos!)*
